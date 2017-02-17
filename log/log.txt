@@ -1,1 +1,16 @@
-w01-170216-10-LR-Listening to lecture in classw01-170216-10-LR-Listening
+w00-170206-10-LR-About: Introduction to Operating System, From: Lecturer
+w00-170206-10-LR-About: Introduction to Operating System, From: Lecturer
+w00-170206-11-LR-About: Introduction to Operating System, From: Lecturer
+w00-170206-11-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-10-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-10-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-11-LR-About: Introduction to Operating System, From: Lecturer
+w00-170207-11-LR-About: Introduction to Operating System, From: Lecturer
+w01-170214-10-LR-About: Introduction to Operating System, From: Lecturer
+w01-170214-10-LR-About: Introduction to Operating System, From: Lecturer
+w01-170214-11-LR-About: Introduction to Operating System, From: Lecturer
+w01-170214-11-LR-About: Introduction to Operating System, From: Lecturer
+w01-170216-10-LR-About: Copyrights of a Software, From: Lecturer
+w01-170216-10-LR-About: Commands in Linux, From: Lecturer
+w01-170216-11-LR-About: Pipelines, From: Lecturer
+w01-170216-11-LR-About: Regular Expression (regex), From: Lecturer
