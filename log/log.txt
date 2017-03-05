@@ -14,3 +14,22 @@ w01-170216-10-LR-About: Copyrights of a Software, From: Lecturer
 w01-170216-10-LR-About: Commands in Linux, From: Lecturer
 w01-170216-11-LR-About: Pipelines, From: Lecturer
 w01-170216-11-LR-About: Regular Expression (regex), From: Lecturer
+w02-170221-10-LR-About: Security and Encryption, from: Lecturer
+w02-170221-10-LR-About: Security and Encryption, from: Lecturer
+w02-170221-11-LR-About: Security and Encryption, from: Lecturer
+w02-170221-11-LR-About: Security and Encryption, from: Lecturer
+w02-170221-11-PS-Doing lab week 02 session
+w02-170222-11-PS-Doing lab week 02 session
+w02-170221-13-PS-Doing lab week 02 session
+w02-170222-14-PS-Doing lab week 02 session
+w03-170228-10-LR-About:Bios, Boot and UpStart From: Lecturer
+w03-170228-10-LR-About:Bios, Boot and UpStart From: Lecturer
+w03-170228-11-LR-About:Bios, Boot and UpStart From: Lecturer
+w03-170228-11-LR-About:Bios, Boot and UpStart From: Lecturer
+w03-170302-10-LR-About:Sudo From: Lecturer
+w03-170302-10-LR-About:Sudo From: Lecturer
+w03-170302-11-LR-About:Sudo From: Lecturer
+w03-170302-11-LR-About:Sudo From: Lecturer
+w03-170303-17-PS-Doing lab week 03 session
+w03-170303-17-PS-Doing lab week 03 session
+
