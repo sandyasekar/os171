@@ -40,4 +40,9 @@ w04-170308-10-LR-About: Pointer, From: Lecturer
 w04-170308-10-LR-About: Pointer, From: Lecturer
 w04-170308-11-LR-About: Pointer, From: Lecturer
 w04-170308-11-LR-About: Pointer, From: Lecturer
-
+w05-170314-10-LR-About: Paging, From: Lecturer
+w05-170314-10-LR-About: Paging, From: Lecturer
+w05-170314-11-LR-About: Paging, From: Lecturer
+w05-170314-11-LR-About: Paging, From: Lecturer
+w05-170316-11-LR-About: Doing lab week 05 session
+w05-170316-11-LR-About: Doing lab week 05 session
