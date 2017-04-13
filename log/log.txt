@@ -46,3 +46,11 @@ w05-170314-11-LR-About: Paging, From: Lecturer
 w05-170314-11-LR-About: Paging, From: Lecturer
 w05-170316-11-LR-About: Doing lab week 05 session
 w05-170316-11-LR-About: Doing lab week 05 session
+w06-170411-10-LR-About: Fork, From: Lecturer
+w06-170411-10-LR-About: Fork, From: Lecturer
+w06-170411-11-LR-About: Fork, From: Lecturer
+w06-170411-11-LR-About: Fork, From: Lecturer
+w06-170413-10-LR-About: Deadlock and Semaphores, From: Lecturer
+w06-170413-10-LR-About: Deadlock and Semaphores, From: Lecturer
+w06-170413-11-LR-About: Deadlock and Semaphores, From: Lecturer
+w06-170413-11-LR-About: Deadlock and Semaphores, From: Lecturer
