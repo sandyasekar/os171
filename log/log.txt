@@ -54,3 +54,15 @@ w06-170413-10-LR-About: Deadlock and Semaphores, From: Lecturer
 w06-170413-10-LR-About: Deadlock and Semaphores, From: Lecturer
 w06-170413-11-LR-About: Deadlock and Semaphores, From: Lecturer
 w06-170413-11-LR-About: Deadlock and Semaphores, From: Lecturer
+w07-170418-10-LR-About: Semaphores, From: Lecturer
+w07-170418-10-LR-About: Semaphores, From: Lecturer
+w07-170418-11-LR-About: Semaphores, From: Lecturer
+w07-170418-11-LR-About: Semaphores, From: Lecturer
+w08-170425-10-LR-About: Penjadwalan proses bertingkat, From: Lecturer
+w08-170425-10-LR-About: Penjadwalan proses bertingkat, From: Lecturer
+w08-170425-11-LR-About: Process Status, From: Lecturer
+w08-170425-11-LR-About: Process Status, From: Lecturer
+w08-170427-10-LR-About: Process Status, From: Lecturer
+w08-170427-10-LR-About: Process Status, From: Lecturer
+w08-170427-11-LR-About: File System, From: Lecturer
+w08-170427-11-LR-About: File System, From: Lecturer
