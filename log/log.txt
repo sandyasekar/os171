@@ -66,3 +66,20 @@ w08-170427-10-LR-About: Process Status, From: Lecturer
 w08-170427-10-LR-About: Process Status, From: Lecturer
 w08-170427-11-LR-About: File System, From: Lecturer
 w08-170427-11-LR-About: File System, From: Lecturer
+w09-170502-10-LR-About: Disk, From: Lecturer
+w09-170502-10-LR-About: Disk, From: Lecturer
+w09-170502-11-LR-About: Disk, From: Lecturer
+w09-170502-11-LR-About: Disk, From: Lecturer
+w09-170504-10-LR-About: Disk, From: Lecturer
+w09-170504-10-LR-About: Disk, From: Lecturer
+w09-170504-11-LR-About: Disk, From: Lecturer
+w09-170504-11-LR-About: Disk, From: Lecturer
+w10-170509-10-LR-About: Cloud Computing, From: Lecturer
+w10-170509-10-LR-About: Cloud Computing, From: Lecturer
+w10-170509-11-LR-About: Cloud Computing, From: Lecturer
+w10-170509-11-LR-About: Cloud Computing, From: Lecturer
+w10-170511-10-LR-About: Cloud Computing, From: Lecturer
+w10-170511-10-LR-About: Cloud Computing, From: Lecturer
+w10-170511-11-LR-About: Cloud Computing, From: Lecturer
+w10-170511-11-LR-About: Cloud Computing, From: Lecturer
+
